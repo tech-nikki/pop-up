@@ -1,0 +1,49 @@
+.header-head{
+  text-align: center;
+  padding: 32px 20px;
+  color: black;
+  font-size: 36px;
+}
+.para-head{
+  text-align: center;
+  color: black;
+  font-size: 20px;
+}
+
+.openndiv{
+  text-align: center;
+  margin-top: 35px;
+}
+
+
+.open-button{
+  border: none;
+  padding: 11px 30px;
+  font-size: 20px;
+  background-color: #0c4da2;
+  color: #fff;
+  border-radius: 9px;
+  font-weight: 700;
+}
+
+.header-popup1{
+  text-align: center;
+  padding: 32px 20px;
+  color: black;
+  font-size: 36px;
+}
+
+
+
+/* Modal Content */
+.modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+
+
+
